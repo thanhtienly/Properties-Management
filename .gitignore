@@ -2,7 +2,7 @@
 *.json
 # transaction message saved
 *.txt
-# python enviroments
+# python bytecode files
 __pycache__
 # enviroment variables
 *.env

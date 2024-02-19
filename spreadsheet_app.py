@@ -1,4 +1,3 @@
-
 import gspread
 from googleapiclient import discovery
 
