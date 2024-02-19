@@ -1,0 +1,8 @@
+# credentials of google account & token
+*.json
+# transaction message saved
+*.txt
+# python enviroments
+__pycache__
+# enviroment variables
+*.env
